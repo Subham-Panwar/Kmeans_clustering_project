@@ -23,7 +23,7 @@ This project performs exploratory data analysis (EDA) and visualization on an on
 2. Create a virtual environment (optional):
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv\Scripts\activate  # On Mac: venv/bin/activate
    ```
 3. Install the required dependencies:
    ```bash
