@@ -8,37 +8,9 @@ This project performs exploratory data analysis (EDA) and visualization on an on
 2. **online_retail.xlsx**: The dataset used for the analysis, containing information about transactions, products, customers, and invoices.
 3. **requirements.txt**: A list of dependencies required to run the project.
 
-## Features
-- Data cleaning and preprocessing.
-- Exploratory data analysis (EDA) with visualizations.
-- Sales performance analysis.
-- Customer segmentation using machine learning techniques.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/online-retail-analysis.git
-   cd online-retail-analysis
-   ```
-2. Create a virtual environment (optional):
-   ```bash
-   python -m venv venv
-   source venv\Scripts\activate  # On Mac: venv/bin/activate
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-## Usage
-1. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook main.ipynb
-   ```
-2. Run the cells sequentially to execute the analysis.
-3. Modify the code as needed to customize the analysis.
-
-## Technologies Used
+## Libraries Used
 - **Python**
 - **pandas**: Data manipulation and analysis.
 - **matplotlib** and **seaborn**: Data visualization.
