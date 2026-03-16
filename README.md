@@ -8,6 +8,21 @@ K-means algorithm is used to segregate customers into different groups so a suit
 
 <img width="794" height="812" alt="image" src="https://github.com/user-attachments/assets/77d17d9a-f8ac-4035-9cb5-bc4cd07800b4" />
 
+### Customer Segmentation Overview
+
+- This project segments customers into four clusters for targeted engagement strategies:
+
+- Cluster 0 (Blue) – Retain
+High-value, regular customers. Focus on retention through loyalty programs, personalized offers, and regular engagement.
+
+-Cluster 1 (Orange) – Re-Engage
+Low-value, infrequent buyers who haven’t purchased recently. Focus on re-engagement with targeted campaigns, discounts, and reminders.
+
+-Cluster 2 (Green) – Nurture
+Low-value but recent buyers. Focus on nurturing with relationship-building, excellent service, and incentives for more frequent purchases.
+
+-Cluster 3 (Red) – Reward
+High-value, frequent buyers. Focus on rewarding loyalty through exclusive offers, recognition, and robust loyalty programs.
 
 ## Files
 1. **main.ipynb**: The primary Jupyter Notebook containing the data analysis and visualization workflows.
