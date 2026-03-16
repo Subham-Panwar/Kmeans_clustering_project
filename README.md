@@ -3,12 +3,16 @@
 ## Overview
 This project performs exploratory data analysis (EDA) and visualization on an online retail dataset. The goal is to uncover key business insights such as sales trends, customer behavior, and product performance using Python and various data analysis tools.
 
+## K-means clustering
+K-means algorithm is used to segregate customers into different groups so a suitble strategy can be applied.
+
+<img width="794" height="812" alt="image" src="https://github.com/user-attachments/assets/77d17d9a-f8ac-4035-9cb5-bc4cd07800b4" />
+
+
 ## Files
 1. **main.ipynb**: The primary Jupyter Notebook containing the data analysis and visualization workflows.
 2. **online_retail.xlsx**: The dataset used for the analysis, containing information about transactions, products, customers, and invoices.
 3. **requirements.txt**: A list of dependencies required to run the project.
-
-
 
 ## Libraries Used
 - **Python**
