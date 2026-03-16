@@ -15,13 +15,13 @@ K-means algorithm is used to segregate customers into different groups so a suit
 - Cluster 0 (Blue) – Retain
 High-value, regular customers. Focus on retention through loyalty programs, personalized offers, and regular engagement.
 
--Cluster 1 (Orange) – Re-Engage
+- Cluster 1 (Orange) – Re-Engage
 Low-value, infrequent buyers who haven’t purchased recently. Focus on re-engagement with targeted campaigns, discounts, and reminders.
 
--Cluster 2 (Green) – Nurture
+- Cluster 2 (Green) – Nurture
 Low-value but recent buyers. Focus on nurturing with relationship-building, excellent service, and incentives for more frequent purchases.
 
--Cluster 3 (Red) – Reward
+- Cluster 3 (Red) – Reward
 High-value, frequent buyers. Focus on rewarding loyalty through exclusive offers, recognition, and robust loyalty programs.
 
 ## Files
