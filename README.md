@@ -24,6 +24,20 @@ Low-value but recent buyers. Focus on nurturing with relationship-building, exce
 - Cluster 3 (Red) – Reward
 High-value, frequent buyers. Focus on rewarding loyalty through exclusive offers, recognition, and robust loyalty programs.
 
+## Outliers Clusters
+Outlier Customer Segments
+
+- PAMPER (-1)
+High spenders with infrequent purchases. Focus on personalized offers and premium experiences to retain them.
+
+- UPSELL (-2)
+Frequent buyers with low spend per purchase. Focus on upselling and bundle deals to increase order value.
+
+- DELIGHT (-3)
+Top-tier customers with high spending and frequency. Focus on VIP programs and exclusive rewards to maintain loyalty.
+ 
+<img width="1070" height="701" alt="image" src="https://github.com/user-attachments/assets/98ba92eb-4df6-4db1-8bbf-0be9c11a692d" />
+
 ## Files
 1. **main.ipynb**: The primary Jupyter Notebook containing the data analysis and visualization workflows.
 2. **online_retail.xlsx**: The dataset used for the analysis, containing information about transactions, products, customers, and invoices.
